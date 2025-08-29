@@ -12,17 +12,17 @@
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-Black?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-Black?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-Black?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Black?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Black?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-Black?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Black?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Black?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-Black?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-Black?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-Unity-black?style=flat-square&logo=unity&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/C%23-C%23-black?style=flat-square&logo=c-sharp&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/C++-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/Java-Java-black?style=flat-square&logo=java&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/Git-Git-black?style=flat-square&logo=git&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub-GitHub-black?style=flat-square&logo=github&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/Linux-Linux-black?style=flat-square&logo=linux&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-Docker-black?style=flat-square&logo=docker&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/MongoDB-MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000" height="40"/>
+  <img src="https://img.shields.io/badge/Node.js-Node.js-black?style=flat-square&logo=node.js&logoColor=white&labelColor=000000" height="40"/>
 </p>
 
 ---
