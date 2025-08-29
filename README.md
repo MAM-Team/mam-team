@@ -13,13 +13,13 @@
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://www.youtube.com/c/mam-team" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40" alt="YouTube"/>
+    <img src="assets/youtube.svg" width="40" height="40" alt="YouTube"/>
   </a>
   <a href="mailto:mam.binary@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
+    <img src="assets/gmail.svg" width="40" height="40" alt="Gmail"/>
   </a>
   <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
+    <img src="assets/discord.svg" width="40" height="40" alt="Discord"/>
   </a>
 </p>
 
@@ -27,7 +27,17 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,git,github,linux,postgres,mongodb,docker,nodejs" />
+  <img src="assets/unity.svg" width="40" height="40" alt="Unity"/>
+  <img src="assets/csharp.svg" width="40" height="40" alt="C#"/>
+  <img src="assets/cpp.svg" width="40" height="40" alt="C++"/>
+  <img src="assets/java.svg" width="40" height="40" alt="Java"/>
+  <img src="assets/git.svg" width="40" height="40" alt="Git"/>
+  <img src="assets/github.svg" width="40" height="40" alt="GitHub"/>
+  <img src="assets/linux.svg" width="40" height="40" alt="Linux"/>
+  <img src="assets/postgres.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="assets/mongodb.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="assets/docker.svg" width="40" height="40" alt="Docker"/>
+  <img src="assets/nodejs.svg" width="40" height="40" alt="Node.js"/>
 </p>
 
 ---
