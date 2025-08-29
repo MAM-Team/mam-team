@@ -3,6 +3,7 @@
 
 ---
 
+### 🚀 About Me
 - 🔭 Currently working on: **Powerless Project**  
 - 🎯 Focused on: Game Development, Backend Systems & Multiplayer  
 - 📫 Reach me at: **mam.binary@gmail.com**  
@@ -12,10 +13,13 @@
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://www.youtube.com/c/mam-team" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40" alt="YouTube"/>
   </a>
   <a href="mailto:mam.binary@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
   </a>
 </p>
 
