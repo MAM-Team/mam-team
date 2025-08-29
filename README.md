@@ -1,33 +1,26 @@
-<!-- Amin Mo GitHub Profile -->
-
-<h1 align="center">👋 Hi, I'm Amin Mo</h1>
-<h3 align="center">Game Developer | Unity & C# Enthusiast</h3>
+# 👋 Hi, I'm Amin Mo
+### Game Developer | Unity & C# Enthusiast
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on: **Powerless Project**  
-- 🛠️ Focused on: *Game Development, Backend Systems & Multiplayer*  
-- 📧 Contact: **mam.binary@gmail.com**  
+## 🚀 About Me
+- Currently working on: **Powerless Project**  
+- Focused on: *Game Development, Backend Systems & Multiplayer*  
+- Contact: **mam.binary@gmail.com**
 
 ---
 
-<h3 align="center">🛠️ Skills</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,git,github,linux,postgres,mongodb,docker,nodejs&perline=12" />
-</p>
+## 🛠️ Skills
+- Unity, C#  
+- C++, Java  
+- Git, GitHub  
+- Linux, Docker  
+- PostgreSQL, MongoDB  
+- Node.js
 
 ---
 
-<h3 align="center">🌐 Connect</h3>
-<p align="center">
-  <a href="https://www.youtube.com/c/mam-team">
-    <img src="https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube&logoColor=red"/>
-  </a>
-  <a href="mailto:mam.binary@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
-</p>
+## 🌐 Connect
+- YouTube: [mam-team](https://www.youtube.com/c/mam-team)  
+- Email: mam.binary@gmail.com  
+- Discord: YOUR_DISCORD_ID
