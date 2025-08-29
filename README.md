@@ -12,21 +12,54 @@
 
 ## 📝 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="50"/> C# &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="50"/> C++ &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="50"/> Java &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50"/> Node.js
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=cs" height="50"/><br/>
+    **C#**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=cpp" height="50"/><br/>
+    **C++**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=java" height="50"/><br/>
+    **Java**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="50"/><br/>
+    **Node.js**
+  </span>
 </p>
 
 ## 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity" height="50"/> Unity &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="50"/> Git &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="50"/> GitHub &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="50"/> Docker &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/> Linux &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="50"/> PostgreSQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/> MongoDB
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=unity" height="50"/><br/>
+    **Unity**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=git" height="50"/><br/>
+    **Git**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/><br/>
+    **GitHub**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=docker" height="50"/><br/>
+    **Docker**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=linux" height="50"/><br/>
+    **Linux**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=postgres" height="50"/><br/>
+    **PostgreSQL**
+  </span>
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50"/><br/>
+    **MongoDB**
+  </span>
 </p>
 
 ---
