@@ -13,19 +13,19 @@
 ## 📝 Languages
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=cs" height="50"/><br/>
       <b>C#</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=cpp" height="50"/><br/>
       <b>C++</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=java" height="50"/><br/>
       <b>Java</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=nodejs" height="50"/><br/>
       <b>Node.js</b>
     </td>
@@ -35,31 +35,31 @@
 ## 🛠️ Tools
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=unity" height="50"/><br/>
       <b>Unity</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=git" height="50"/><br/>
       <b>Git</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=github" height="50"/><br/>
       <b>GitHub</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=docker" height="50"/><br/>
       <b>Docker</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=linux" height="50"/><br/>
       <b>Linux</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=postgres" height="50"/><br/>
       <b>PostgreSQL</b>
     </td>
-    <td align="center" style="padding:50px;">
+    <td align="center" style="padding:200px;">
       <img src="https://skillicons.dev/icons?i=mongodb" height="50"/><br/>
       <b>MongoDB</b>
     </td>
