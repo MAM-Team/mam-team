@@ -14,7 +14,7 @@
 
 <h3 align="center">🛠️ Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,git,github,linux,postgres,mongodb,docker,nodejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,git,github,linux,postgres,mongodb,docker,nodejs&perline=12" />
 </p>
 
 ---
