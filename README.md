@@ -12,10 +12,10 @@
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://www.youtube.com/c/mam-team" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=youtube" width="32" height="32"/>
   </a>
   <a href="mailto:mam.binary@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="32" height="32"/>
   </a>
 </p>
 
