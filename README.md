@@ -10,10 +10,16 @@
 
 ---
 
-## 🛠️ Skills
+## 📝 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,git,github,linux,docker,postgres,mongodb,nodejs" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,nodejs" height="50"/>
 </p>
+
+## 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,git,github,docker,linux,postgres,mongodb" height="50"/>
+</p>
+
 
 ---
 
