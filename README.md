@@ -32,6 +32,8 @@
   </tr>
 </table>
 
+---
+
 ## 🛠️ Tools
 <table align="center">
   <tr>
