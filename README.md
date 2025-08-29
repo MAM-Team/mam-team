@@ -10,7 +10,6 @@
 - 🔭 Currently working on: **Powerless Project**  
 - 🛠️ Focused on: *Game Development, Backend Systems & Multiplayer*  
 - 📧 Reach me at: **mam.binary@gmail.com**  
-- 🌍 Fun fact: I love exploring **new game mechanics**  
 
 ---
 
@@ -32,22 +31,4 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,git,github,linux,postgres,mongodb,docker,nodejs&perline=6" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mam-team&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mam-team&theme=radical" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mam-team&theme=react-dark&bg_color=20232a&hide_border=true" />
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://github.com/mam-team/mam-team/blob/output/github-contribution-grid-snake.svg" />
 </p>
