@@ -23,7 +23,7 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,js,androidstudio,git,github,linux,mysql,postgres,mongodb,docker,azure,firebase,nodejs" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,java,git,github,linux,postgres,mongodb,docker,nodejs" />
 </p>
 
 ---
