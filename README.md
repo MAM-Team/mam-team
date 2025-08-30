@@ -21,7 +21,7 @@
       <b>C++</b>
     </td>
     <td align="center" style="padding:20px;">
-      <img src="https://skillicons.dev/icons?i=java" height="50"/>
+      <img src="https://skillicons.dev/icons?i=java" height="50"/><br/>
       <b>Java</b>
     </td>
     <td align="center" style="padding:20px;">
