@@ -1,6 +1,5 @@
-## 👋 Hi, I'm Amin Mo
-
-Unity & C# Developer | Founder @ MAM Studios | Building Games like Powerless
+# 👋 Hi, I'm Amin Mo
+### Unity & C# Developer | Founder @ MAM Studios | Building Games like Powerless
 ---
 
 ## 🚀 About Me
@@ -12,19 +11,60 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 ## 🛠️ Skills
 
 ### Programming Languages
- ![C#](https://skillicons.dev/icons?i=cs)
- ![C++](https://skillicons.dev/icons?i=cpp)
- ![Java](https://skillicons.dev/icons?i=java)
- ![Node.js](https://skillicons.dev/icons?i=nodejs)
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cs" height="120"/><br>
+<span style="font-size:8px;">C#</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" height="120"/><br>
+<span style="font-size:8px;">C++</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" height="120"/><br>
+<span style="font-size:8px;">Java</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" height="120"/><br>
+<span style="font-size:8px;">Node.js</span>
+</td>
+</tr>
+</table>
 
 ### Tools & Technologies
- ![Unity](https://skillicons.dev/icons?i=unity)
- ![Git](https://skillicons.dev/icons?i=git)
- ![GitHub](https://skillicons.dev/icons?i=github)
- ![Docker](https://skillicons.dev/icons?i=docker) 
- ![Linux](https://skillicons.dev/icons?i=linux)
- ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
- ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=unity" height="120"/><br>
+<span style="font-size:8px;">Unity</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" height="120"/><br>
+<span style="font-size:8px;">Git</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" height="120"/><br>
+<span style="font-size:8px;">GitHub</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" height="120"/><br>
+<span style="font-size:8px;">Docker</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" height="120"/><br>
+<span style="font-size:8px;">Linux</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" height="120"/><br>
+<span style="font-size:8px;">PostgreSQL</span>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" height="120"/><br>
+<span style="font-size:8px;">MongoDB</span>
+</td>
+</tr>
+</table>
 
 ---
 
