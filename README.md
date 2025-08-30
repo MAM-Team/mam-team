@@ -6,7 +6,6 @@
 ## 🚀 About Me
 - **Currently working on:** Powerless Project  
 - **Focused on:** Game Development, Backend Systems & Multiplayer  
-- **Contact:** mam.binary@gmail.com
 
 ---
 
@@ -71,6 +70,6 @@
 ---
 
 ## 🌐 Connect
-- **YouTube:** [mam-team](https://www.youtube.com/c/mam-team)  
+- **YouTube:** [mam-team](https://www.youtube.com/)  
 - **Email:** mam.binary@gmail.com  
-- **Discord:** YOUR_DISCORD_ID
+- **Discord:** [mam_team](https://www.discord.com/)
