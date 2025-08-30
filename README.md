@@ -9,62 +9,11 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 ---
 
 ## 🛠️ Skills
-
 ### Programming Languages
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cs" height="120"/><br>
-<span style="font-size:8px;">C#</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" height="120"/><br>
-<span style="font-size:8px;">C++</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" height="120"/><br>
-<span style="font-size:8px;">Java</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" height="120"/><br>
-<span style="font-size:8px;">Node.js</span>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,nodejs,html,css" height="40"/><br>
 
 ### Tools & Technologies
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=unity" height="120"/><br>
-<span style="font-size:8px;">Unity</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" height="120"/><br>
-<span style="font-size:8px;">Git</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" height="120"/><br>
-<span style="font-size:8px;">GitHub</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" height="120"/><br>
-<span style="font-size:8px;">Docker</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" height="120"/><br>
-<span style="font-size:8px;">Linux</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" height="120"/><br>
-<span style="font-size:8px;">PostgreSQL</span>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" height="120"/><br>
-<span style="font-size:8px;">MongoDB</span>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=unity,cs,docker,linux" height="40"/><br>
 
 ---
 
