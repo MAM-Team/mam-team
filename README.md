@@ -58,11 +58,11 @@
     </td>
     <td align="center" style="padding:20px;">
       <img src="https://skillicons.dev/icons?i=postgres" height="50"/><br/>
-      <b>PostgreSQL</b>
+      PostgreSQL
     </td>
     <td align="center" style="padding:20px;">
       <img src="https://skillicons.dev/icons?i=mongodb" height="50"/><br/>
-      <b>MongoDB</b>
+      MongoDB
     </td>
   </tr>
 </table>
