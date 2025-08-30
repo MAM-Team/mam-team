@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Amin Mo
-### Game Developer | Unity & C# Enthusiast
 ### Unity & C# Developer | Founder @ MAM Studios | Building Games like Powerless
 ---
 
 ## 🚀 About Me
-- **Currently working on:** Powerless Project  
-- **Focused on:** Game Development, Backend Systems & Multiplayer  
+I'm a passionate **Unity & C# Developer** and Founder of **MAM Studios**, currently building **Powerless**, an indie multiplayer game.  
+I focus on **game development, backend systems, and real-time multiplayer networking** to create engaging experiences.
 
 ---
 
@@ -58,11 +57,11 @@
     </td>
     <td align="center" style="padding:20px;">
       <img src="https://skillicons.dev/icons?i=postgres" height="50"/><br/>
-      PostgreSQL
+      <b>PostgreSQL</b>
     </td>
     <td align="center" style="padding:20px;">
       <img src="https://skillicons.dev/icons?i=mongodb" height="50"/><br/>
-      MongoDB
+      <b>MongoDB</b>
     </td>
   </tr>
 </table>
