@@ -2,13 +2,13 @@
 ### Unity & C# Developer | Founder @ MAM Studios | Building Games like Powerless
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 I'm a passionate **Unity & C# Developer** and Founder of **MAM Studios**, currently building **Powerless**, an indie multiplayer game.  
 I focus on **game development, backend systems, and real-time multiplayer networking** to create engaging experiences.
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,nodejs" height="40"/><br>
@@ -18,7 +18,7 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 
 ---
 
-## 🌐 Connect with MAM Team
+# 🌐 Connect with MAM Team
 - 📧 Email: mam.binary@gmail.com  
 - 💻 GitHub: [mam-team](https://github.com/mam-team)  
 - 💬 Discord: [mam_team](https://discord.com/)  
