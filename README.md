@@ -22,6 +22,6 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 
 ## 🌐 Connect with MAM Team
 - Email: mam.binary@gmail.com  
-- GitHub: [mam-team](https://github.com/mam-team)  
-- Discord: [mam_team](https://discord.com/)  
-- YouTube: [mam-team](https://www.youtube.com/@MAM-team)
+- GitHub: [MAM-Team](https://github.com/mam-team)  
+- YouTube: [MAM-Team](https://www.youtube.com/@MAM-team)
+- Discord: [MAM Studio](https://discord.gg/Z47TkYNv)
