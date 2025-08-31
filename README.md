@@ -1,4 +1,4 @@
-## Hi, I'm Amin Mo
+## MAM Studio
 ### Unity & C# Developer | Founder @ MAM Studios | Building Games like Powerless
 ---
 
