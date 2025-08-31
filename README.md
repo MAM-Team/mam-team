@@ -11,9 +11,11 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 ## 🛠️ Skills
 
 ### Programming Languages
+
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,nodejs" height="40"/><br>
 
 ### Tools & Technologies
+
 <img src="https://skillicons.dev/icons?i=unity,unreal,git,github,docker,linux,postgres,mongodb,bash" height="40"/><br>
 
 ---
@@ -22,4 +24,4 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 - 📧 Email: mam.binary@gmail.com  
 - 💻 GitHub: [mam-team](https://github.com/mam-team)  
 - 💬 Discord: [mam_team](https://discord.com/)  
-- 📺 YouTube: [mam-team](https://www.youtube.com/c/mam-team)
+- 📺 YouTube: [mam-team](https://www.youtube.com/@MAM-team)
