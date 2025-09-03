@@ -1,9 +1,13 @@
 ## Hi, I’m Amin Mo
 ### Unity & C# Developer | Founder @ MAM Studios
 
+---
+
 ## About Me
 I'm a passionate **Unity & C# Developer** and Founder of **MAM Studios**, currently building **Powerless**, an indie multiplayer game.  
 I focus on **game development, backend systems, and real-time multiplayer networking** to create engaging experiences.
+
+---
 
 ## Skills
 ### Programming Languages
@@ -13,6 +17,8 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 ### Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=unity,unreal,git,github,docker,linux,postgres,mongodb,bash" height="40"/><br>
+
+---
 
 ## 🌐 Connect with MAM Team
 - Email: mam.binary@gmail.com  
