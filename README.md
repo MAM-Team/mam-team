@@ -29,3 +29,4 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 ---
 
 <img src="https://raw.githubusercontent.com/mam-team/mam-team/output/snake.svg" alt="Snake animation" />
+
