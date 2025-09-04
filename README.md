@@ -17,7 +17,7 @@
 
   ### Tools & Technologies
 
-  <img src="https://skillicons.dev/icons?i=unity,unreal,git,github,docker,linux,postgres,mongodb,bash" height="40"/><br>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,git,github,docker,linux,postgres,mongodb,bash" height="40"/><br>
 
 ---
 
