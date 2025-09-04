@@ -21,13 +21,13 @@ I focus on **game development, backend systems, and real-time multiplayer networ
 
 ---
 
+<img src="https://raw.githubusercontent.com/mam-team/mam-team/output/github-snake-dark.svg" alt="Snake animation" />
+
+---
+
 ## 🌐 Connect with MAM Team
 - Email: mam.binary@gmail.com  
 - GitHub: [MAM-Team](https://github.com/mam-team)  
 - YouTube: [MAM-Team](https://www.youtube.com/@MAM-team)
 - Discord: [MAM Studio](https://discord.gg/Z47TkYNv)
-
----
-
-<img src="https://raw.githubusercontent.com/mam-team/mam-team/output/github-snake-dark.svg" alt="Snake animation" />
 
